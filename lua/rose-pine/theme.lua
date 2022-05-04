@@ -106,7 +106,7 @@ function M.get(config)
 		Special = { fg = p.rose },
 		SpecialChar = { fg = p.rose },
 		SpecialComment = { fg = p.iris },
-		Statement = { fg = p.pine },
+		Statement = { fg = p.love },
 		StorageClass = { fg = p.foam },
 		String = { fg = p.gold },
 		Structure = { fg = p.foam },
