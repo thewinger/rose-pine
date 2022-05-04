@@ -128,7 +128,7 @@ function M.get(config)
 		htmlLink = { fg = groups.link },
 		htmlTag = { fg = p.subtle },
 		htmlTagN = { fg = p.text },
-		htmlTagName = { fg = p.foam },
+		htmlTagName = { fg = p.gold },
 
 		markdownDelimiter = { fg = p.subtle },
 		markdownH1 = { fg = groups.headings.h1, style = 'bold' },
