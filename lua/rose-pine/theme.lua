@@ -108,7 +108,7 @@ function M.get(config)
 		SpecialComment = { fg = p.iris },
 		Statement = { fg = p.love },
 		StorageClass = { fg = p.foam },
-		String = { fg = p.gold },
+		String = { fg = p.text },
 		Structure = { fg = p.foam },
 		Tag = { fg = p.rose },
 		Todo = { fg = p.iris },
@@ -237,7 +237,7 @@ function M.get(config)
 		-- TSTypeBuiltin = {},
 		TSURI = { fg = groups.link },
 		-- TSUnderline = {},
-		TSVariable = { fg = p.text, style = styles.italic },
+		TSVariable = { fg = p.gold, style = styles.italic },
 		TSVariableBuiltin = { fg = p.love },
 
 		-- vim.lsp.buf.document_highlight()
