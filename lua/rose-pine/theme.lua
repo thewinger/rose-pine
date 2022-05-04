@@ -128,7 +128,7 @@ function M.get(config)
 		htmlLink = { fg = groups.link },
 		htmlTag = { fg = p.subtle },
 		htmlTagN = { fg = p.text },
-		htmlTagName = { fg = p.gold },
+		htmlTagName = { fg = p.rose },
 
 		markdownDelimiter = { fg = p.subtle },
 		markdownH1 = { fg = groups.headings.h1, style = 'bold' },
@@ -229,7 +229,7 @@ function M.get(config)
 		-- TSStringRegex = {},
 		TSStringSpecial = { link = 'TSString' },
 		-- TSSymbol = {},
-		TSTag = { fg = p.foam },
+		TSTag = { fg = p.rose },
 		TSTagDelimiter = { fg = p.subtle },
 		TSText = { fg = p.text },
 		TSTitle = { fg = groups.headings.h1, style = 'bold' },
@@ -237,7 +237,7 @@ function M.get(config)
 		-- TSTypeBuiltin = {},
 		TSURI = { fg = groups.link },
 		-- TSUnderline = {},
-		TSVariable = { fg = p.gold, style = styles.italic },
+		TSVariable = { fg = p.rose, style = styles.italic },
 		TSVariableBuiltin = { fg = p.love },
 
 		-- vim.lsp.buf.document_highlight()
