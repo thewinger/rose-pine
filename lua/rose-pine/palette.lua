@@ -1,23 +1,3 @@
-  bg0 = '#16161c',
-  bg1 = '#232530',
-  bg2 = '#2E303E',
-  bg3 = '#6C6F93',
-
-  fg0 = '#d5d8da',
-  fg1 = '#d2d4de',
-  fg2 = '#A8B0B5',
-
-  black = '#1C1E26',
-  white = '#FDF0ED',
-  red = '#e95678',
-  green = '#09F7a0',
-  yellow = '#fab795',
-  blue = '#26bbd9',
-  magenta = '#ee64ac',
-  cyan = '#59e3e3',
-  orange = '#F09383',
-
-
 local variants = {
 	main = {
 		base = '#191724',
