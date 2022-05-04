@@ -206,7 +206,7 @@ function M.get(config)
 		-- TSFuncMacro = {},
 		TSFunction = { fg = p.rose },
 		TSInclude = { fg = p.pine },
-		TSKeyword = { fg = p.pine },
+		TSKeyword = { fg = p.love },
 		-- TSKeywordFunction = {},
 		TSKeywordOperator = { fg = p.subtle },
 		TSLabel = { fg = p.foam },
